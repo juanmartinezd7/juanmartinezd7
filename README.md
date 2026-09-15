@@ -26,9 +26,9 @@ I enjoy turning ideas and requirements into functional applications, solving tec
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Acme Dashboard
+## 📊 Acme Dashboard
 
 A full-stack business dashboard built with **Next.js and the App Router** that allows authenticated users to manage customers and invoices.
 
@@ -46,10 +46,11 @@ The application provides a modern dashboard where users can view key business me
 **Technologies:** Next.js • React • JavaScript • CSS • Database Integration • Authentication
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Application-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://wdd-430-lj6y.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/WDD430-NextJsApp/tree/main)
 
 ---
 
-### 🛍️ Handcrafted Haven
+## 🛍️ Handcrafted Haven
 
 A collaborative full-stack online marketplace designed to connect artisans and crafters with customers looking for unique handmade products.
 
@@ -63,14 +64,16 @@ As part of a development team, I contributed to features including seller profil
 - Responsive design
 - WCAG 2.1 AA accessibility considerations
 - Collaborative development with Git and GitHub
+- Cloud deployment with Vercel
 
 **Technologies:** Next.js • Node.js • HTML • CSS • JavaScript • OAuth • Git • GitHub • GitHub Projects • Vercel
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Application-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://handcraftedhaven-team09.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/handcraftedhaven-team09-final)
 
 ---
 
-### 🍳 Recipe Lookup & Grocery Finder
+## 🍳 Recipe Lookup & Grocery Finder
 
 A web application developed as part of my Web Front-End Development coursework that helps users search for recipes and grocery-related information.
 
@@ -79,10 +82,11 @@ The project demonstrates working with JavaScript, external data, APIs, and respo
 **Technologies:** HTML5 • CSS3 • JavaScript • APIs
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Application-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://wdd-330finalproject.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/WDD330/tree/main/final-project)
 
 ---
 
-### 🏕️ Sleep Outside
+## 🏕️ Sleep Outside
 
 An e-commerce-style web application developed as part of my Web Front-End Development coursework.
 
@@ -91,10 +95,13 @@ The project strengthened my experience creating interactive and responsive websi
 **Technologies:** HTML5 • CSS3 • JavaScript
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Application-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://sleepoutsidewebsite.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/WDD330/tree/main/src)
 
 ---
 
-### 🏙️ City Chamber of Commerce
+# 📁 Additional Projects
+
+## 🏙️ City Chamber of Commerce
 
 A fictional Chamber of Commerce website developed to demonstrate responsive front-end development and integration with external data sources.
 
@@ -103,16 +110,18 @@ The application uses JavaScript, JSON, and APIs to dynamically retrieve and disp
 **Technologies:** HTML5 • CSS3 • JavaScript • JSON • APIs • Responsive Design
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://juanmartinezd7.github.io/wdd231/chamber/index.html)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/wdd231/tree/main/chamber)
 
 ---
 
-### 🏭 Sioux Extrusions
+## 🏭 Sioux Extrusions
 
-A fictional company website created to demonstrate foundational front-end development, JavaScript, and responsive web design skills.
+A fictional company website created to demonstrate front-end development, JavaScript, and responsive web design skills.
 
-**Technologies:** HTML5 • CSS3 • JavaScript
+**Technologies:** HTML5 • CSS3 • JavaScript • Responsive Design
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://juanmartinezd7.github.io/wdd231/websiteproject/index)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanmartinezd7/wdd231/tree/main/websiteproject)
 
 ---
 
