@@ -1,6 +1,6 @@
 # Hi, I'm Juan Martinez 👋
 
-## Software Developer | Full-Stack & Web Development
+## Computer Science Student at BYU-Pathway
 
 I'm a software developer with hands-on experience building full-stack and front-end applications using modern web technologies. Through individual, academic, and collaborative projects, I've developed applications involving responsive user interfaces, databases, APIs, authentication, data management, and deployment.
 
